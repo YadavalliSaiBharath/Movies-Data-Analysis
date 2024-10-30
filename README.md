@@ -1,1 +1,3 @@
 # Movies-Data-Analysis
+
+Passionate about leveraging data to uncover insights, I recently completed an in-depth analysis of a Pokémon dataset using Python’s powerful libraries, including NumPy, Pandas, and Matplotlib. My project involved cleaning, processing, and visualizing key characteristics, such as Pokémon types, stats distributions, and battle effectiveness, to draw meaningful insights. Through this project, I honed my skills in data wrangling, exploratory data analysis, and data visualization, transforming raw data into actionable insights. I am excited to apply my analytical expertise to tackle new challenges and deliver data-driven results in my future endeavors.
